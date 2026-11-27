@@ -1,5 +1,9 @@
 # diff-speed-01-run-20261126 — entry for @overtheraa (account A)
 
+[![make.fun · diff-speed-01-run-20261126](https://make.fun/badge/diff-speed-01-run-20261126.svg)](https://make.fun/bounty/diff-speed-01-run-20261126?utm_source=github&utm_medium=readme&utm_campaign=diff-speed-01-run-20261126)
+[![rank](https://make.fun/badge/diff-speed-01-run-20261126/overtheraadot/diff-speed-01-a/rank.svg)](https://make.fun/bounty/diff-speed-01-run-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=diff-speed-01-run-20261126)
+[![reward](https://make.fun/badge/diff-speed-01-run-20261126/overtheraadot/diff-speed-01-a/reward.svg)](https://make.fun/bounty/diff-speed-01-run-20261126?utm_source=github&utm_medium=readme&utm_campaign=diff-speed-01-run-20261126)
+
 make.fun bounty **"Diff two texts faster, 27 November 2026"**
 (`diff-speed-01-run-20261126`): write a faster drop-in for makefun-diff 1.0.0
 whose `run(input)` returns byte-identical answers on every case. $100 total,
